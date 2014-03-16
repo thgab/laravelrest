@@ -1,0 +1,20 @@
+{
+  "name": "Robots",
+  "version": "0.0.1",
+  "authors": [
+    "thgab <thgab74@gmail.com>"
+  ],
+  "description": "Robot manager",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.1.1",
+    "backbone": "~1.1.2"
+  }
+}
